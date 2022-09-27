@@ -65,7 +65,7 @@ hardhat-skyrim/.env
 hardhat-skyrim/coverage
 hardhat-skyrim/coverage.json
 hardhat-skyrim/typechain
-/hardhat-skyrimtypechain-types
+hardhat-skyrim/typechain-types
 
 #Hardhat files
 hardhat-skyrim/cache
