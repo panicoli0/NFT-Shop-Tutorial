@@ -60,13 +60,13 @@ sysinfo.txt
 crashlytics-build.properties
 
 #Hardhat directories
-node_modules
-.env
-coverage
-coverage.json
-typechain
-typechain-types
+hardhat-skyrim/node_modules
+hardhat-skyrim/.env
+hardhat-skyrim/coverage
+hardhat-skyrim/coverage.json
+hardhat-skyrim/typechain
+/hardhat-skyrimtypechain-types
 
 #Hardhat files
-cache
-artifacts
+hardhat-skyrim/cache
+hardhat-skyrim/artifacts
