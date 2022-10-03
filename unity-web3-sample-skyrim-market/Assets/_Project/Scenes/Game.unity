@@ -6408,7 +6408,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _dontDestroyOnLoad: 0
   catalogName: 
-  currencyCode: 
+  currencyCode: CR
   playerId: 
 --- !u!114 &931081984
 MonoBehaviour:
